@@ -2,3 +2,4 @@
 Hello! 
 My name is Irsa.
 I am working on my first github project.
+I am a designer
