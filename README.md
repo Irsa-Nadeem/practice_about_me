@@ -2,5 +2,9 @@
 Hello! 
 My name is Irsa.
 I am working on my first github project.
-My favourite color is green.
+<<<<<<< Updated upstream
 
+
+=======
+My favourite color is green
+>>>>>>> Stashed changes
