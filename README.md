@@ -2,5 +2,5 @@
 Hello! 
 My name is Irsa.
 I am working on my first github project.
-My favourite color is
+My favourite color is blue
 
