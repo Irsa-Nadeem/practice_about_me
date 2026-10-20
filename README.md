@@ -4,4 +4,5 @@ My name is Irsa.
 I am working on my first github project.
 My favourite color is blue.
 
-I am developer
+I am a web developer
+
