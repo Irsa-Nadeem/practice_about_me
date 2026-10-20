@@ -3,6 +3,5 @@ Hello!
 My name is Irsa.
 I am working on my first github project.
 My favourite color is blue.
-
-I am a web developer
+My email is abcd56@gmail.com.
 
